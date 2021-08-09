@@ -1,0 +1,26 @@
+5
+C_Programming_Language
+Dennis_Ritchie
+Prentice_Hall
+1988
+59000.000000
+Programming_in_ANSI_C
+Balagurusamy
+Prentice_Hall
+2012
+600000.000000
+c++
+pham van at
+dai hoc bach khoa
+2010
+54000.000000
+C#
+pham van at
+2009
+2009
+52000.000000
+Python
+Pham Van At
+dai hoc bach khoa
+2010
+56000.000000
